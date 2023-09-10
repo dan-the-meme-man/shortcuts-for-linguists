@@ -1,5 +1,5 @@
 # shortcuts-for-linguists
-These scripts can be run through the program AutoHotKey (AHK) which can be installed for free. They contain helpful keyboard shortcuts for phonetics/phonology.
+This script runs via AutoHotKey (AHK) which can be installed for free. It contains helpful keyboard shortcuts for phonetics/phonology.
 
 Please feel free to modify this script as needed! As an example:
 
